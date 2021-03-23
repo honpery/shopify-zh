@@ -1,2 +1,3 @@
-# shopify-doc-zh
-Shopify中文文档
+# shopify-zh
+
+> Shopify中文文档
