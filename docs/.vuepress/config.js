@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Shopify Zh',
-    description: 'shoify中文文档',
+    title: 'Shopify中文文档',
+    description: 'Shopify中文文档',
     base: '/',
     themeConfig: {
         repo: 'honpery/shopify-zh',
